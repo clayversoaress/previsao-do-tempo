@@ -1,0 +1,14 @@
+weather-app/
+  ├── src/
+  │   ├── components/
+  │   │   ├── Header.js
+  │   │   ├── WeatherCard.js
+  │   │   ├── WeatherChart.js
+  │   │   ├── SearchBar.js
+  │   │   └── ThemeToggle.js
+  │   ├── styles/
+  │   │   ├── GlobalStyles.js
+  │   │   └── theme.js
+  │   ├── services/
+  │   │   └── api.js
+  │   └── App.js 
